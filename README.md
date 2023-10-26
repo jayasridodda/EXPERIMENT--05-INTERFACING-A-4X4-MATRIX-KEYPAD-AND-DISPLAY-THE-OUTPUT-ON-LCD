@@ -187,7 +187,13 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
  
 
 ## STM 32 CUBE PROGRAM :
-```#include "main.h"
+```
+NAME: JAYASRI DODDA
+REG NO: 212222240028
+DEPT: AI-ML
+```
+```
+#include "main.h"
 #include"stdbool.h"
 #include"lcd.h"
 bool col1,col2,col3,col4;
